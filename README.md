@@ -16,7 +16,8 @@
 - 💻 [GitHub](https://github.com/jesuscopado)
 
 ### Skills
-- 🤖 **AI**: PyTorch, TensorFlow, OpenCV, Hugging Face, Scikit-Learn
+- 🤖 **GenAI**: LangChain, LangGraph, OpenAI API, Chainlit, Vector DBs
+- 🧠 **DL/ML/CV**: PyTorch, TensorFlow, OpenCV, Hugging Face, Scikit-Learn
 - 📊 **Data Science**: NumPy, Pandas, Seaborn, Plotly, Jupyter
-- 🚀 **MLOps**: AWS SageMaker, AWS S3, Docker, ZenML, W&B, Git
+- 🚀 **AIOps/MLOps**: LangFuse, AWS SageMaker, Docker, ZenML, W&B, Git
 - 🐍 **Python**: Django, Flask, FastAPI, Pytest, Unittest
