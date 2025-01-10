@@ -4,7 +4,7 @@
 - 🌟 Always eager to learn and embrace new challenges
 
 ### Currently, I'm a
-- 👨‍💻 Artificial Intelligence Software Engineer @ [Parkdepot](https://www.park-depot.com/de-en)
+- 👨‍💻 Lead Artificial Intelligence Engineer @ [Insud Pharma](https://www.insudpharma.com/en/)
 - 🚀 Co-Founder & Jamstack Engineer @ [neuronhub](https://www.neuronhub.org/)
 
 ### In my free time I enjoy
@@ -12,8 +12,8 @@
 - 🍿 Going to the cinema and grabbing a big bucket of popcorn
   
 ### Let's Connect!
+- 🎥 [YouTube](https://www.youtube.com/@jesuscopado-en)
 - 👔 [LinkedIn](https://www.linkedin.com/in/copadojesus/)
-- 💻 [GitHub](https://github.com/jesuscopado)
 
 ### Skills
 - 🤖 **GenAI**: LangChain, LangGraph, OpenAI API, Chainlit, Vector DBs
