@@ -4,8 +4,8 @@
 - 🌟 Always eager to learn and embrace new challenges
 
 ### Currently, I'm a
-- 👨‍💻 Lead Artificial Intelligence Engineer @ [Insud Pharma](https://www.insudpharma.com/en/)
-- 🚀 Co-Founder & Jamstack Engineer @ [neuronhub](https://www.neuronhub.org/)
+- 👨‍💻 Head of Artificial Intelligence Engineer @ [Nova](https://www.novatalent.com)
+- 📹 AI Educator & Content Creator @ [YouTube](https://www.youtube.com/@jesuscopado-en)
 
 ### In my free time I enjoy
 - 🏐 Doing sports: beach volley, surfing, calisthenics... - you name it!
